@@ -11,8 +11,8 @@ It uses `AsyncStorage` for data storage.
 To run the app:
 
 - install all project dependencies with `yarn` or `npm install`
-- cd into the root of the app and start the `Metro` via a terminal using the command `npx react-native start`
-- then in a separate terminal (say that of `VSCode`) execute the command `npx react-native run-android`
+- `cd` into the root of the app and start the `Metro` server in a terminal using the command `npx react-native start`
+- then in a separate terminal (say that of `VSCode`) execute the command `npx react-native run-android` to install the app on an emulator
 
 ## Requirements
 
